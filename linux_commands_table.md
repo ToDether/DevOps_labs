@@ -16,14 +16,14 @@
 | `sudo` | Executes a command with superuser (root) privileges. | ![13](https://github.com/ToDether/DevOps_labs/assets/127844719/a5089ade-69ee-4ded-8961-dda5fbdabea9)|
 | `rm filename` | Removes (deletes) a file. | ![14](https://github.com/ToDether/DevOps_labs/assets/127844719/448df5de-262e-4a29-91c8-a93d1f3dc32f)|
 | `man` | Displays the manual page for a command. |  |
-| `history` | Displays the command history. |  |
-| `clear` | Clears the terminal screen. | ![alt text](../image-28.png) |
+| `history` | Displays the command history. | ![15_history](https://github.com/ToDether/DevOps_labs/assets/127844719/3b6b0f0d-10dc-40c5-bf22-3780de262096)|
+| `clear` | Clears the terminal screen. | ![16](https://github.com/ToDether/DevOps_labs/assets/127844719/d991bf6e-a2e1-4909-b7a2-ef38c64eca3b)|
 | `mkdir directoryname` | Creates a new directory. | ![alt text](../image-29.png) |
-| `rmdir` | Removes an empty directory. | ![alt text](../image-30.png) |
-| `mv` | Moves or renames files or directories. | Rename file:![alt text](../image-31.png) Move file: ![alt text](../image-32.png) |
-| `pr -x` | Formats text files for printing, '-x' sets the number of columns. | ![alt text](../image-33.png) |
-| `pr -h` | Adds a header to the file when printing, '-h' specifies the header. | ![alt text](../image-34.png) |
-| `pr -n` | Adds line numbers to the file. | ![alt text](../image-35.png) |
+| `rmdir` | Removes an empty directory. | ![17 rmdir](https://github.com/ToDether/DevOps_labs/assets/127844719/bf45fa5e-244e-4622-a118-282b8a3e3de5)|
+| `mv` | Moves or renames files or directories. | Rename file: ![18](https://github.com/ToDether/DevOps_labs/assets/127844719/397600a1-d432-4743-be43-e07fad0f3abf) Move file: ![18_2](https://github.com/ToDether/DevOps_labs/assets/127844719/e95d7a1b-7fd1-4667-85c7-2c529df92348)|
+| `pr -x` | Formats text files for printing, '-x' sets the number of columns. | ![19](https://github.com/ToDether/DevOps_labs/assets/127844719/ba9115f7-6de8-44fd-93ad-8e247c7e7b3c)|
+| `pr -h` | Adds a header to the file when printing, '-h' specifies the header. | ![20](https://github.com/ToDether/DevOps_labs/assets/127844719/81a97e99-5b8f-4e4a-be1e-3569e49c5941)|
+| `pr -n` | Adds line numbers to the file. | ![21](https://github.com/ToDether/DevOps_labs/assets/127844719/335c6b61-c8b0-476c-bb3d-a4483473c2b2)|
 | `lp -n c` or `lpr -# c` | Sends a file to the printer, '-n' specifies the number of copies. | `lp -n 2 file.txt` - prints two copies of file.txt |
 | `lp -d` or `lpr -P` | Specify the destination | `lp -d printer_name file.txt` or `lp -P printer_name file.txt` |
-| `apt-get` | APT package handling utility in Debian and Ubuntu, used for installing, updating, and removing packages. | ![alt text](../image-37.png) |
+| `apt-get` | APT package handling utility in Debian and Ubuntu, used for installing, updating, and removing packages. | ![22](https://github.com/ToDether/DevOps_labs/assets/127844719/3d3476d8-8a21-4507-975f-c90ec35cf376)|

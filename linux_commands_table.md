@@ -17,7 +17,7 @@
 | `rm filename` | Removes (deletes) a file. | ![14](https://github.com/ToDether/DevOps_labs/assets/127844719/448df5de-262e-4a29-91c8-a93d1f3dc32f)|
 | `man` | Displays the manual page for a command. |  |
 | `history` | Displays the command history. | ![15_history](https://github.com/ToDether/DevOps_labs/assets/127844719/3b6b0f0d-10dc-40c5-bf22-3780de262096)|
-| `clear` | Clears the terminal screen. | ![16](https://github.com/ToDether/DevOps_labs/assets/127844719/d991bf6e-a2e1-4909-b7a2-ef38c64eca3b)|
+| `clear` | Clears the terminal screen. | ![image](https://github.com/ToDether/DevOps_labs/assets/127844719/2d7a6253-2a73-4626-b644-7ea3c35ad45d)|
 | `mkdir directoryname` | Creates a new directory. | ![16](https://github.com/ToDether/DevOps_labs/assets/127844719/d991bf6e-a2e1-4909-b7a2-ef38c64eca3b) |
 | `rmdir` | Removes an empty directory. | ![17 rmdir](https://github.com/ToDether/DevOps_labs/assets/127844719/bf45fa5e-244e-4622-a118-282b8a3e3de5)|
 | `mv` | Moves or renames files or directories. | Rename file: ![18](https://github.com/ToDether/DevOps_labs/assets/127844719/397600a1-d432-4743-be43-e07fad0f3abf) Move file: ![18_2](https://github.com/ToDether/DevOps_labs/assets/127844719/e95d7a1b-7fd1-4667-85c7-2c529df92348)|

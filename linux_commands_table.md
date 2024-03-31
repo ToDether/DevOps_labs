@@ -3,11 +3,11 @@
 |-----------|-------------------------|---------------|
 | `ls` | Lists the contents of the current directory. | ![1](https://github.com/ToDether/DevOps_labs/assets/127844719/1cd53e69-d6f5-4388-9e18-f55b9ee95750)|
 | `ls -R` | Lists all files in the directory and subdirectories recursively. |![2](https://github.com/ToDether/DevOps_labs/assets/127844719/fc929ac1-9315-4d6b-8df3-eeea9c5a5fbe)|
-| `ls -a` | Lists all entries including hidden files starting with '.' | ![alt text](../image-14.png) |
-| `ls -al` | Lists detailed information about all files, including hidden ones. | ![alt text](../image-15.png) |
-| `cd` or `cd ~` | Changes the current directory to the home directory. | ![alt text](../image-16.png) |
-| `cd ..` | Moves one directory up in the hierarchy. | ![alt text](../image-17.png) |
-| `cd /` | Changes the current directory to the root directory. | ![alt text](../image-18.png) |
+| `ls -a` | Lists all entries including hidden files starting with '.' | ![3](https://github.com/ToDether/DevOps_labs/assets/127844719/4075c2b6-bc25-4478-bb93-e0e67fa2025e)|
+| `ls -al` | Lists detailed information about all files, including hidden ones. |![4](https://github.com/ToDether/DevOps_labs/assets/127844719/0a47a51c-e2c7-4ff6-b44d-9f5d746b0135)|
+| `cd` or `cd ~` | Changes the current directory to the home directory. | |
+| `cd ..` | Moves one directory up in the hierarchy. | |
+| `cd /` | Changes the current directory to the root directory. |  |
 | `cat > filename` | Creates a new file or overwrites an existing file and allows you to enter content. | ![alt text](../image-19.png) |
 | `cat filename` | Displays the contents of a file. | ![alt text](../image-20.png) |
 | `cat file1 file2 > file3` | Concatenates file1 and file2 and writes the output to file3. | ![alt text](../image-21.png) |

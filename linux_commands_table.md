@@ -11,12 +11,12 @@
 | `cat > filename` | Creates a new file or overwrites an existing file and allows you to enter content. | ![cat  filename](https://github.com/ToDether/DevOps_labs/assets/127844719/5d884065-88e0-4276-a4c8-affb2cfc4221)|
 | `cat filename` | Displays the contents of a file. | ![9](https://github.com/ToDether/DevOps_labs/assets/127844719/0844b36c-9a44-4ea6-80ce-b893a42eb263)|
 | `cat file1 file2 > file3` | Concatenates file1 and file2 and writes the output to file3. | ![10](https://github.com/ToDether/DevOps_labs/assets/127844719/813c5246-2ab1-4dc7-a508-60397231de45)|
-| `mv file "new file path"` | Moves or renames a file to a new location. | ![alt text](../image-22.png) |
-| `mv filename new_file_name` | Renames a file. | ![alt text](../image-23.png) |
-| `sudo` | Executes a command with superuser (root) privileges. | ![alt text](../image-24.png) |
-| `rm filename` | Removes (deletes) a file. | ![alt text](../image-25.png) |
-| `man` | Displays the manual page for a command. | ![alt text](../image-26.png) |
-| `history` | Displays the command history. | ![alt text](../image-27.png) |
+| `mv file "new file path"` | Moves or renames a file to a new location. | ![11](https://github.com/ToDether/DevOps_labs/assets/127844719/0ad70871-aa25-4167-a0d6-88f1fb9dd70e)|
+| `mv filename new_file_name` | Renames a file. | ![12](https://github.com/ToDether/DevOps_labs/assets/127844719/cc4295e2-b0bb-4364-b2a5-8cf208dc2cea)|
+| `sudo` | Executes a command with superuser (root) privileges. | ![13](https://github.com/ToDether/DevOps_labs/assets/127844719/a5089ade-69ee-4ded-8961-dda5fbdabea9)|
+| `rm filename` | Removes (deletes) a file. | ![14](https://github.com/ToDether/DevOps_labs/assets/127844719/448df5de-262e-4a29-91c8-a93d1f3dc32f)|
+| `man` | Displays the manual page for a command. |  |
+| `history` | Displays the command history. |  |
 | `clear` | Clears the terminal screen. | ![alt text](../image-28.png) |
 | `mkdir directoryname` | Creates a new directory. | ![alt text](../image-29.png) |
 | `rmdir` | Removes an empty directory. | ![alt text](../image-30.png) |

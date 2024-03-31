@@ -9,8 +9,8 @@
 | `cd ..` | Moves one directory up in the hierarchy. |![6](https://github.com/ToDether/DevOps_labs/assets/127844719/3ae8cb84-ad86-4916-94de-4a858ed634f7)|
 | `cd /` | Changes the current directory to the root directory. | ![7](https://github.com/ToDether/DevOps_labs/assets/127844719/e1200fa4-c3e2-4a9a-9363-d6dccecef01e)|
 | `cat > filename` | Creates a new file or overwrites an existing file and allows you to enter content. | ![cat  filename](https://github.com/ToDether/DevOps_labs/assets/127844719/5d884065-88e0-4276-a4c8-affb2cfc4221)|
-| `cat filename` | Displays the contents of a file. |  |
-| `cat file1 file2 > file3` | Concatenates file1 and file2 and writes the output to file3. |  |
+| `cat filename` | Displays the contents of a file. | ![9](https://github.com/ToDether/DevOps_labs/assets/127844719/0844b36c-9a44-4ea6-80ce-b893a42eb263)|
+| `cat file1 file2 > file3` | Concatenates file1 and file2 and writes the output to file3. | ![10](https://github.com/ToDether/DevOps_labs/assets/127844719/813c5246-2ab1-4dc7-a508-60397231de45)|
 | `mv file "new file path"` | Moves or renames a file to a new location. | ![alt text](../image-22.png) |
 | `mv filename new_file_name` | Renames a file. | ![alt text](../image-23.png) |
 | `sudo` | Executes a command with superuser (root) privileges. | ![alt text](../image-24.png) |

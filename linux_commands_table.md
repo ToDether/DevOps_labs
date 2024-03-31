@@ -18,7 +18,7 @@
 | `man` | Displays the manual page for a command. |  |
 | `history` | Displays the command history. | ![15_history](https://github.com/ToDether/DevOps_labs/assets/127844719/3b6b0f0d-10dc-40c5-bf22-3780de262096)|
 | `clear` | Clears the terminal screen. | ![16](https://github.com/ToDether/DevOps_labs/assets/127844719/d991bf6e-a2e1-4909-b7a2-ef38c64eca3b)|
-| `mkdir directoryname` | Creates a new directory. | ![alt text](../image-29.png) |
+| `mkdir directoryname` | Creates a new directory. | ![16](https://github.com/ToDether/DevOps_labs/assets/127844719/d991bf6e-a2e1-4909-b7a2-ef38c64eca3b) |
 | `rmdir` | Removes an empty directory. | ![17 rmdir](https://github.com/ToDether/DevOps_labs/assets/127844719/bf45fa5e-244e-4622-a118-282b8a3e3de5)|
 | `mv` | Moves or renames files or directories. | Rename file: ![18](https://github.com/ToDether/DevOps_labs/assets/127844719/397600a1-d432-4743-be43-e07fad0f3abf) Move file: ![18_2](https://github.com/ToDether/DevOps_labs/assets/127844719/e95d7a1b-7fd1-4667-85c7-2c529df92348)|
 | `pr -x` | Formats text files for printing, '-x' sets the number of columns. | ![19](https://github.com/ToDether/DevOps_labs/assets/127844719/ba9115f7-6de8-44fd-93ad-8e247c7e7b3c)|
